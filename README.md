@@ -6,16 +6,14 @@ I enjoy taking on challenging problems and using my coding skills to bring solut
 
 ## 🌱 Currently Learning & Exploring
 - Enhancing skills in **AI and Machine Learning**.
-- Building modern **web applications** using React, Node.js, and Django.
+- Building modern **web applications** using React, Node.js
 - Experimenting with **cloud technologies** and scalable solutions.
 
 ## 💼 My Skills & Tools
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js, Express, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
-- **Machine Learning/AI:** TensorFlow, Scikit-learn, Pandas, NumPy
+- **Languages:** JavaScript, Java, C#
+- **Web Development:** HTML, CSS, React
+- **Databases:** MySQL, MSSQL
 - **Version Control:** Git, GitHub
-- **Cloud Computing:** AWS, Heroku
 
 ## 📈 Core Projects
 
@@ -29,7 +27,7 @@ A **RESTful API** that manages doctor and patient data. With advanced filtering,
 
 ### 3. **[BMCT Cars](https://github.com/sajjan15/Front-End-Web-Programming.git)**  
 *Front-End Web Programming Course Project*  
-A **Front-End Web Programming** project showcasing an interactive and responsive website for a car dealership. Built with HTML, CSS, and JavaScript, this project highlights my skills in web design and user interface development.
+An interactive and responsive website for a car dealership. Built with HTML, CSS, and JavaScript, this project highlights my skills in web design and user interface development.
 
 ## 🚀 What I'm Working On
 - Enhancing **web app performance** with real-time features using technologies like WebSockets.
