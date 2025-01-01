@@ -30,8 +30,8 @@ A **RESTful API** that manages doctor and patient data. With advanced filtering,
 An interactive and responsive website for a car dealership. Built with HTML, CSS, and JavaScript, this project highlights my skills in web design and user interface development.
 
 ## 🚀 What I'm Working On
-- Enhancing **web app performance** with real-time features using technologies like WebSockets.
-- Diving deeper into **cloud computing** for scalable app solutions.
+- Enhancing **web app performance** with advanced features using various technologies.
+- Diving deeper into **AI and Machine Learning** for scalable app solutions.
 - Contributing to **open-source projects** to further hone my skills and collaborate with the community.
 
 ## 📬 Let's Connect!
