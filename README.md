@@ -17,8 +17,8 @@ I enjoy taking on challenging problems and using my coding skills to bring solut
 
 ## 📈 Core Projects
 
-### 1. **[Human Resource Management System](https://github.com/sajjan15/System-Development.git)**  
-*System Development Course Project*  
+### 1. **[HR Management System](https://github.com/sajjan15/Application-Development-I.git)**  
+*Application Development I Course Project*  
 A comprehensive **desktop application** designed to manage departments, staff, and payroll. The system streamlines administrative tasks and enhances organizational efficiency.
 
 ### 2. **[Clinic Management System](https://github.com/sajjan15/Web-Services.git)**  
@@ -49,7 +49,7 @@ When I'm not coding, you'll find me exploring the outdoors, experimenting with n
 
 Check out my repositories for more of my work, including contributions to open-source projects:
 
-- **[Human Resource Management System](https://github.com/sajjan15/System-Development.git)**  
+- **[HR Management System](https://github.com/sajjan15/Application-Development-I.git)**  
 *System Development Course Project*
 
 - **[Clinic Management System](https://github.com/sajjan15/Web-Services.git)**  
