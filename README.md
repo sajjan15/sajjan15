@@ -37,7 +37,7 @@ An interactive and responsive website for a car dealership. Built with HTML, CSS
 I’d love to connect with fellow developers, tech enthusiasts, and industry professionals. You can reach out to me via:
 
 - **Email:** [sajjangautam28@gmail.com](mailto:sajjangautam28@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Sajjan Gautam](https://www.linkedin.com/in/sajjan-gautam-68891a19a)
 
 ## 🌟 Fun Fact
 When I'm not coding, you'll find me exploring the outdoors, experimenting with new gadgets, or reading the latest in tech and programming!
