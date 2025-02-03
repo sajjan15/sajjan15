@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Sajjan — A Passionate Developer & Tech Enthusiast
 
-I'm a recent Computer Science graduate with a passion for building innovative, scalable solutions. My journey so far has led me through Full-stack Development, Web Services, and Desktop Applications, and I’m always eager to explore new technologies to create high-impact projects.
+I'm a Computer Science student graduating in the near future with a passion for building innovative, scalable solutions. My journey so far has led me through Full-stack Development, Web Services, and Desktop Applications, and I’m always eager to explore new technologies to create high-impact projects.
 
 I thrive on tackling challenging problems, whether it's developing robust backend APIs or crafting intuitive, user-friendly frontend interfaces. My goal is to build seamless, efficient experiences for users.
 
