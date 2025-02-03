@@ -1,11 +1,11 @@
 # 👋 Hello! I'm Sajjan — A Passionate Developer & Tech Enthusiast
 
-I'm a software developer with a passion for crafting innovative and scalable solutions. My expertise spans **Full-stack Development**, **Web Services**, and **Desktop Applications**, and I love diving into new technologies to build high-impact projects.
+I'm a recent Computer Science graduate with a passion for building innovative, scalable solutions. My journey so far has led me through Full-stack Development, Web Services, and Desktop Applications, and I’m always eager to explore new technologies to create high-impact projects.
 
-I enjoy taking on challenging problems and using my coding skills to bring solutions to life. Whether it's building powerful backend APIs or designing user-friendly frontend interfaces, I strive to create seamless experiences for users.
+I thrive on tackling challenging problems, whether it's developing robust backend APIs or crafting intuitive, user-friendly frontend interfaces. My goal is to build seamless, efficient experiences for users.
 
 ## 🌱 Currently Learning & Exploring
-- Learning skills in **AI**.
+- Diving into **cybersecurity.**
 - Building modern **web applications** using React, Node.js
 
 ## 💼 My Skills & Tools
