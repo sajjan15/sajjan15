@@ -5,7 +5,7 @@ I'm a software developer with a passion for crafting innovative and scalable sol
 I enjoy taking on challenging problems and using my coding skills to bring solutions to life. Whether it's building powerful backend APIs or designing user-friendly frontend interfaces, I strive to create seamless experiences for users.
 
 ## 🌱 Currently Learning & Exploring
-- Learning and Enhancing skills in **AI and Machine Learning**.
+- Learning skills in **AI**.
 - Building modern **web applications** using React, Node.js
 
 ## 💼 My Skills & Tools
