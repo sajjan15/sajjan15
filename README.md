@@ -30,7 +30,7 @@ An interactive and responsive website for a car dealership. Built with HTML, CSS
 
 ## 🚀 What I'm Working On
 - Enhancing **web app performance** with advanced features using various technologies.
-- Diving deeper into **AI and Machine Learning** for scalable app solutions.
+- Diving deeper into **Cybersecurity** for scalable app solutions.
 - Contributing to **open-source projects** to further hone my skills and collaborate with the community.
 
 ## 📬 Let's Connect!
