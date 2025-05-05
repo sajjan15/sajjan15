@@ -6,10 +6,10 @@ I thrive on tackling challenging problems, whether it's developing robust backen
 
 ## 🌱 Currently Learning & Exploring
 - Diving into **cybersecurity.**
-- Building modern **web applications** using React, Node.js
+- Building modern **web applications** using React, Node.js, Flask
 
 ## 💼 My Skills & Tools
-- **Languages:** JavaScript, Java, C#
+- **Languages:** Java, JavaScript, C#, Python, kotlin
 - **Web Development:** HTML, CSS, React
 - **Databases:** MySQL, MSSQL
 - **Version Control:** Git, GitHub
